@@ -22,11 +22,12 @@ Ao todo, criamos dois recursos no Azure, um banco de dados SQL e um storage acco
 
 Tela de Cadastro de produtos que se conecta ao banco e faz o insert das informações do produto, e salva a imagem do mesmo no storage account
 
-![Cadastro de Produtos](https://github.com/goncasthiago/lab01-azure/blob/main/img/cadastro.jpeg?raw=true)
+![Cadastro de Produtos](https://github.com/goncasthiago/lab01-azure/blob/main/img/cadatro.jpeg?raw=true)
+
 
 Por último, uma página para listar todos os produtos cadastrados no banco de dados
 
-![Lista de Produtos](https://github.com/goncasthiago/lab01-azure/blob/main/img/Summarization_input.png?raw=true)
+![Lista de Produtos](https://github.com/goncasthiago/lab01-azure/blob/main/img/listaprodutos.jpeg?raw=true)
 
 
 ## Laboratório DIO
